@@ -1,0 +1,6 @@
+{
+int i;
+i = 4;
+while(i < 5){
+int r;
+}}
